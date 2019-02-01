@@ -27,10 +27,11 @@ All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
 ```
-if (test expression)
-{
-  Statement upon condition is true
-}
+"actions": {
+ "log": {
+ "logging": {
+ "level": "info",
+ "text": "Alert for job
 ```
 
 **Following is what you need for this book:**
