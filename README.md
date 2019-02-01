@@ -56,16 +56,26 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * Learning Elastic Stack 6.0 [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/learning-elastic-stack-60?utm_source=github&utm_medium=repository&utm_campaign=9781787281868) [[Amazon]](https://www.amazon.com/dp/B077T7V7PF)
 
 ## Get to Know the Author(s)
-**Author Name**
-Bio
+**Rich Collier**
+is a solutions architect at Elastic. Joining the Elastic team from the Prelert
+acquisition, Rich has over 20 years' experience as a solutions architect and pre-sales systems
+engineer for software, hardware, and service-based solutions. Rich's technical specialties
+include big data analytics, machine learning, anomaly detection, threat detection, security
+operations, application performance management, web applications, and contact center
+technologies. Rich is based in Boston, Massachusetts
 
-**Author Name**
-Bio
+**Bahaaldine Azarmi**
+or Baha for short, is a solutions architect at Elastic. Prior to this
+position, Baha co-founded ReachFive, a marketing data platform focused on user behavior
+and social analytics. Baha also worked for different software vendors such as Talend and
+Oracle, where he held solutions architect and architect positions. Before Machine Learning
+with the Elastic Stack, Baha authored books including Learning Kibana 5.0, Scalable Big Data
+Architecture, and Talend for Big Data. Baha is based in Paris and has an MSc in computer
+science from Polytech'Paris.
 
 
 ## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
+* [Learning Kibana 5.0](https://www.packtpub.com/big-data-and-business-intelligence/learning-kibana-50?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
