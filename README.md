@@ -7,7 +7,8 @@ This is the code repository for [	Machine Learning with the Elastic Stack](https
 **Expert techniques to integrate machine learning with distributed search and analytics**
 
 ## What is this book about?
-First Paragraph from the Long Description
+Machine Learning with the Elastic Stack is a comprehensive overview of the embedded commercial features of anomaly detection and forecasting. The book starts with installing and setting up Elastic Stack. You will perform time series analysis on varied kinds of data, such as log files, network flows, application metrics, and financial data.
+As you progress through the chapters, you will deploy machine learning within the Elastic Stack for logging, security, and metrics. In the concluding chapters, you will see how machine learning jobs can be automatically distributed and managed across the Elasticsearch cluster and made resilient to failure.
 
 This book covers the following exciting features: <First 5 What you'll learn points>
 * Install the Elastic Stack to use machine learning features
