@@ -57,7 +57,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Learning Elastic Stack 6.0 [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/learning-elastic-stack-60?utm_source=github&utm_medium=repository&utm_campaign=9781787281868) [[Amazon]](https://www.amazon.com/dp/B077T7V7PF)
 
-## Get to Know the Author(s)
+## Get to Know the Authors
 **Rich Collier**
 is a solutions architect at Elastic. Joining the Elastic team from the Prelert
 acquisition, Rich has over 20 years' experience as a solutions architect and pre-sales systems
