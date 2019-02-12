@@ -10,7 +10,7 @@ This is the code repository for [	Machine Learning with the Elastic Stack](https
 Machine Learning with the Elastic Stack is a comprehensive overview of the embedded commercial features of anomaly detection and forecasting. The book starts with installing and setting up Elastic Stack. You will perform time series analysis on varied kinds of data, such as log files, network flows, application metrics, and financial data.
 As you progress through the chapters, you will deploy machine learning within the Elastic Stack for logging, security, and metrics. In the concluding chapters, you will see how machine learning jobs can be automatically distributed and managed across the Elasticsearch cluster and made resilient to failure.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: 
 * Install the Elastic Stack to use machine learning features
 * Understand how Elastic machine learning is used to detect a variety of anomaly types
 * Apply effective anomaly detection to IT operations and security analytics
