@@ -36,7 +36,7 @@ The code will look like the following:
 ```
 
 **Following is what you need for this book:**
-Copy and paste the Audience section from the EPIC.
+If you are a data professional eager to gain insight on Elasticsearch data without having to rely on a machine learning specialist or custom development, Machine Learning with the Elastic Stack is for you. Those looking to integrate machine learning within their search and analytics applications will also find this book very useful. Prior experience with the Elastic Stack is needed to get the most out of this book.
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-10).
 
